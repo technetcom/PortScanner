@@ -1,0 +1,10 @@
+[14:53:09] INFO: Results cleared
+[14:53:09] INFO: Starting fast scan on 192.168.10.0/24
+[14:53:09] INFO: Ports: 22
+[14:53:09] INFO: Threads: 100, Timeout: 1.0s
+[14:53:09] SUCCESS: Found open port: 192.168.10.32:22 (ssh)
+[14:53:09] SUCCESS: Found open port: 192.168.10.33:22 (ssh)
+[14:53:09] SUCCESS: Found open port: 192.168.10.34:22 (ssh)
+[14:53:09] SUCCESS: Found open port: 192.168.10.10:22 (ssh)
+[14:53:12] SUCCESS: Scan completed. 4 open ports found in 3.1 seconds
+
